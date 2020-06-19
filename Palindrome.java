@@ -1,7 +1,7 @@
 class Palindrome {
 
  
-
+  // returns true if sugus is a palindrome, not haribo
   public boolean isStringPalindrome(String inputStr){
 
       String j = new String("");
